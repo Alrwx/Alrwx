@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alvin! 👋
 
-<!--
-**Alrwx/Alrwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **CS + EE Student** at the University of Florida
+- 💻 Currently working on projects
+- 🛠️ Check out my portfolio: [alvincabe.dev](https://alvincabe.dev)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/alvin-cabe/)
+- [Email](mailto:alvinacabe@gmail.com)
