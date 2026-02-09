@@ -1,4 +1,4 @@
-# Hi, I'm Alvin 👋 
+# Hi, I'm Alvin 
 
 I’m a **Computer Science student and Electrical Engineering minor** at the **University of Florida**. I bridge the gap between robust backend logic and fluid frontend experiences, with a passion for high-performance systems and intentional, scalable design. I'm also interested in acting as the technical bridge between hardware and software, the purpose of my minor in Electrical Engineering.
 
