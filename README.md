@@ -20,4 +20,4 @@ I’m a **Computer Science student and Electrical Engineering minor** at the **U
 - **Email:** [alvinacabe@gmail.com](mailto:alvinacabe@gmail.com)
 - **Personal Site:** [alvincabe.dev](https://alvincabe.dev/) 
 
-*"I believe that meaningful conversations and collaboration shape how we think and create."* 
+*"I'm not afraid of being lost, I'm afraid of staying lost." - Alvin* 
