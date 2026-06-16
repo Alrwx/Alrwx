@@ -3,7 +3,7 @@
 I’m a **Computer Science student and Electrical Engineering minor** at the **University of Florida**. I bridge the gap between robust backend logic and fluid frontend experiences, with a passion for high-performance systems and intentional, scalable design. I'm also interested in acting as the technical bridge between hardware and software, the purpose of my minor in Electrical Engineering.
 
 -  **Education:** BS in Computer Science @ UF | Minor in EE | AI Certificate 
--  **Currently:** Intern at **IBM** and Design Team Lead at **UF ACM** 
+-  **Currently:** Forward Deployed Software Engineer Intern at **IBM** and Design Team Lead at **UF ACM** 
 -  **Portfolio:** [alvincabe.dev](https://alvincabe.dev/) 
 
 ---
