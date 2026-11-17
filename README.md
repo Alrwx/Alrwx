@@ -3,7 +3,7 @@
 CS student with an EE minor at the **University of Florida**. I build fast backend systems and like working where hardware meets software.
  
 -  **Now:** Incoming Software Engineering Intern @ **Datadog** (Summer 2027)
--  **Previously:** Forward Deployed Engineering Intern @ **IBM**, Design Team Director @ UF ACM, Software Engineering Intern @ Debate Central, AI/ML Engineering Intern @ Hollywood Studios, Software Engineering Intern @ Evy.io
+-  **Previously:** Forward Deployed Engineering Intern @ **IBM**, Design Team Director @ UF ACM, Software Engineering Intern @ Debate Central, Software Engineering Intern @ Evy.io
 -  **Education:** BS in Computer Science @ UF | Minor in EE | Minor in Engineering Innovation | AI Certificat
 ---
  
